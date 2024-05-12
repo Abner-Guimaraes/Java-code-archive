@@ -14,4 +14,7 @@ Este repositório é constantemente atualizado à medida que novas atividades s�
 
 Contribuições são bem-vindas! Se você encontrar maneiras de melhorar ou otimizar qualquer um dos códigos existentes, sinta-se à vontade para enviar uma solicitação pull request.
 
+![Demonstração das Atividades](https://i.gifer.com/6tXM.mp4)
+
+*Demonstração das atividades em andamento:*
 
