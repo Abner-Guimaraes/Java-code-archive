@@ -16,5 +16,5 @@ Contribuições são bem-vindas! Se você encontrar maneiras de melhorar ou otim
 
 ![Demonstração das Atividades](https://64.media.tumblr.com/e09cea490ce3a4b87a876bebb9f216d5/tumblr_pl0zw1FSGy1vs1b7ho1_540.gif)
 
-*Demonstração das atividades em andamento:*
+*Demonstração antes de iniciar os códigos:*
 
