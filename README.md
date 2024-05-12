@@ -14,7 +14,7 @@ Este repositório é constantemente atualizado à medida que novas atividades s�
 
 Contribuições são bem-vindas! Se você encontrar maneiras de melhorar ou otimizar qualquer um dos códigos existentes, sinta-se à vontade para enviar uma solicitação pull request.
 
-![Demonstração das Atividades](https://miro.medium.com/v2/resize:fit:640/1*lhOax3cZATGZwEhG0uTYRA.gif)
+![Demonstração das Atividades](https://64.media.tumblr.com/e09cea490ce3a4b87a876bebb9f216d5/tumblr_pl0zw1FSGy1vs1b7ho1_540.gif)
 
 *Demonstração das atividades em andamento:*
 
